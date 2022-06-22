@@ -1,0 +1,29 @@
+.header{
+    padding: 60px;
+    text-align: center;
+    background-color: #193C40;
+    color: white;
+    font-size: 30px;
+}
+.page{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    gap: 10px;
+}
+
+.photo{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+
+}
+
+.dispo{
+    color: green;
+}
